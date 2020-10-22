@@ -1,3 +1,5 @@
+# Giulia Passoni
+
 # TODO:
 - edit footer  
 - fix css  
