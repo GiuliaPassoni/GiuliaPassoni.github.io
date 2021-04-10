@@ -3,10 +3,11 @@ module.exports = {
   Sitelogo: '#',
   SiteLogoText: 'Giulia P.',
   SiteAuthor: 'Giulia Passoni',
-  SiteDescription: 'Engineer and Artist',
-  defaultDescription: 'Smart and confident', 
+  SiteDescription: 'Aspiring Artist',
+  defaultDescription: 'Non obstantem', 
   SiteSocialLinks: {
     linkedin: 'https://www.linkedin.com/in/giulia-passoni-70b364122/',
+    redbubble: 'https://www.redbubble.com/people/GLissArt/shop?asc=u'
   },
   SiteAddress: {
     city: '',
@@ -18,5 +19,5 @@ module.exports = {
     email: 'giulia.passoni95@gmail.com',
     phone: 'phone number',
   },
-  SiteCopyright: '2020',
+  SiteCopyright: '2021',
 };

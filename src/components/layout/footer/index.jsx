@@ -20,7 +20,7 @@ const Footer = () => {
 							))}
 						</FooterSocialMedia>
 						<div>
-							<p className="text-primary quote"> Ready to take the next step and work together? </p>
+							<p className="text-primary quote"> Interested? </p>
 							<ButtonDefault href={`mailto:${data.SiteContact.email}`}> Contact me </ButtonDefault>
 						</div>
 					</FooterBody>
@@ -31,7 +31,7 @@ const Footer = () => {
 							<span> {new Date().getFullYear()}, Built with {` `} 
 								<a href="https://www.gatsbyjs.org">Gatsby</a>{" "}
           		</span> 
-							Copyright 2020 by {data.SiteAuthor} </CopyRight>
+							Copyright 2021 by {data.SiteAuthor} </CopyRight>
 					</div>
 				</ContainerLayout>
 			</FooterStyle>

@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
-import { User, Briefcase, Smile } from 'react-feather'
+import { User, Briefcase, Feather } from 'react-feather'
 
 import {NavbarElement, NavbarList, NavbarLogo} from './style'
 
@@ -12,7 +12,7 @@ const Navbar = ({ siteTitle }) => (
           <NavbarLogo>
             <h3>
               <Link to="/">
-                <Smile className="align-middle"/> <span className="align-middle"> {siteTitle} </span>
+                <Feather className="align-middle"/> <span className="align-middle"> {siteTitle} </span>
               </Link>
             </h3>
           </NavbarLogo> 

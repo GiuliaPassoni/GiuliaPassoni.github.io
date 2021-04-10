@@ -27,10 +27,10 @@ const About = () => {
             </div> 
             <div>
               <Title> Hello, I’m Giulia </Title>
-              <Text> I'm a digital Front End Developer hailing from <b className="text-primary lined-link">North Africa</b> living in Casablanca. </Text>
-              <Text> I love working with modern technologies, building and designing awesome projects. I prefer minimalistic & clean designs with strong user experience.</Text>
-              <Text> behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.
-              </Text>
+              <Text> Thank you for stopping by. </Text>
+              <Text> This personal website is where I have come to terms with my aspiration to become an artist.</Text>
+              <Text> An aspiring fashion designer as a kid, over the years I left my passion for drawing slowly sinking away. Perhaps reawakened by the excitement of my current occupation as a structural engineer, my artistic aspirations have now find a place here. </Text> 
+              <Text> My learning jourey into the exciting realm of <b className="text-primary lined-link">digital art</b> is only at its beginning. Here you will find me, as I develop my style, make progress and mistakes, and hopefully, make some meaningful work. </Text>
               <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
             </div>
           </AboutSection>

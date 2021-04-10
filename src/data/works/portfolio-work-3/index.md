@@ -1,13 +1,13 @@
 ---
-title: portfolio-work-3
-date: "2015-05-06T23:46:37.121Z"
-category: backend development
-tags: ['Adobe xd', 'css', 'js', 'dashboard']
+title: Early Work
+date: "2015-04-12"
+category: Hand Drawing
+tags: ['Hand Drawing', 'Portraits']
 image: './blog-image.jpg'
-description: "Not only that, but the second address field also caused them to split their input incorrectly in the address fields. This led to confusion and frustration among users."  
+description: "This work dates back to that time in my life where drawing was a routine committment. That is, before my engineering degree took over and buried that part of me deep underneath design equations and cracking failures."  
 ---
 
-Have you ever filled out a form and froze on the address field? A [research study](https://baymard.com/blog/address-line-2) found that users come to a confusing stop when they encounter the “address line 2” field.
+<!-- Have you ever filled out a form and froze on the address field? A [research study](https://baymard.com/blog/address-line-2) found that users come to a confusing stop when they encounter the “address line 2” field.
 
 ![double_address_fields](./blog-image.jpg)
 
@@ -26,4 +26,4 @@ The second address field forces the user to type their address in the system’s
 Real World Expectations
 -----------------------
 
-It’s important to design your form based on the user’s real world expectations. If you force users to rethink conventions in order to match the system, you’ll confuse and frustrate them. Don’t force the user to follow the system, force the system to follow the user.
+It’s important to design your form based on the user’s real world expectations. If you force users to rethink conventions in order to match the system, you’ll confuse and frustrate them. Don’t force the user to follow the system, force the system to follow the user. -->
