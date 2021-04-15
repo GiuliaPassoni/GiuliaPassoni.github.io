@@ -98,7 +98,8 @@ exports.createPages = async ({ graphql, actions }) => {
       path: work.node.fields.slug,
       component: portfolioWork,
       context: {
-        slug: work.node.fields.slug
+        slug: work.node.fields.slug,
+        parentFolderName: work.node.fields.slug.substring(1, work.node.fields.slug.length-1)
       },
     })
   })

@@ -19,7 +19,7 @@ export const Avatar =styled(Img)`
 export const Title = styled.h1`
   font-size: 3rem;
   text-transform: capitalize;
-  font-family: "GT-Walsheim-Pro-Bold";
+  font-family: "PTSans-Bold";
   @media(max-width: ${variables.breakpointPhone}) {
     font-size: 2rem;
   }
@@ -28,14 +28,13 @@ export const Text = styled.p`
   font-size: 1.2rem;
   line-height: 2;
   color: #232323;
-  text-transform: capitalize;
   a {
     color: #3F51B5;
     text-decoration: underline;
   }
 `
 export const SubTitle = styled.h2`
-  font-family: "GT-Walsheim-Pro-Medium";
+  font-family: "PTSans-Bold";
   margin-top: 3rem;
   margin-bottom: 2rem;
   text-align: center;

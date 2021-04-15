@@ -3,7 +3,7 @@ title: A Different Thing
 date: "2021-03-16"
 category: Sketching
 tags: ['Hand Drawing', 'Portraits']
-image: './salty_egg.jpg'
+image: './blog-image.jpg'
 description: "<em>'What would be that one thing that, if you did it every day, would change your life?'</em> I set myself this personal challenge of a daily 15-minute sketching practice. My learning journey is going to be long and steep."
 ---
 <!-- 
