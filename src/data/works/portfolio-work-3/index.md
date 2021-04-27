@@ -4,7 +4,7 @@ date: "2015-04-12"
 category: Hand Drawing
 tags: ['Hand Drawing', 'Portraits']
 image: './blog-image.jpg'
-description: "This work dates back to that time in my life where drawing was a routine committment. That is, before my engineering degree took over and buried that part of me deep underneath design equations and cracking failures."  
+description: "From my time in high school, when drawing was a long-awaited weekend committment."  
 ---
 
 <!-- Have you ever filled out a form and froze on the address field? A [research study](https://baymard.com/blog/address-line-2) found that users come to a confusing stop when they encounter the “address line 2” field.

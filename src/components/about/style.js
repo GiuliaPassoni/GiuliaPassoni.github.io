@@ -13,7 +13,7 @@ export const AboutSection = styled.section`
 `
 export const Avatar =styled(Img)`
   border-radius: 5px;
-  box-shadow: 0px 0px 64px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
   width: 100%;
 `
 export const Title = styled.h1`
@@ -24,12 +24,12 @@ export const Title = styled.h1`
     font-size: 2rem;
   }
 `
-export const Text = styled.p`
+export const Text = styled.p` 
   font-size: 1.2rem;
   line-height: 2;
-  color: #232323;
+  color: #262730; 
   a {
-    color: #3F51B5;
+    color: #f87575;
     text-decoration: underline;
   }
 `

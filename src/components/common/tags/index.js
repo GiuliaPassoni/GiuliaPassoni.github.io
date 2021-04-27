@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import variables from '../../../data/variables';
 
 export const Tag = styled.a`
-  color: #a9aaab;
+  color: #ffa9a3;
   text-transform: uppercase;
   letter-spacing: .05em;
   font-size: .8em;

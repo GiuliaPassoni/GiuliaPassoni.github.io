@@ -29,7 +29,7 @@ export const SubTitle = styled.h3`
 export const Text = styled.p`
   font-size: .98rem;
   line-height: 2;
-  color: #000000;
+  color: #262730;
   margin-top: 2rem;
   text-align: justify;
   @media(max-width: ${variables.breakpointPhone}) {
@@ -40,7 +40,7 @@ export const Text = styled.p`
 export const SubText = styled.p`
   font-size: 1rem;
   line-height: 2;
-  color: #232323;
+  color: #262730;
 `
 
 export const SmallText = styled.small`

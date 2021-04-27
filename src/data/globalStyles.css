@@ -1,9 +1,9 @@
 .slick-next::before {
-    color: #000 !important;
+    color: #FFA9A3 !important;
 }
 
 .slick-prev::before {
-    color: #000 !important;
+    color: #F87575 !important;
 }
 
 .slick-slider {

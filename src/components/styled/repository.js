@@ -69,7 +69,7 @@ export const FooterItem = styled.span`
   margin-bottom: 1rem;
   font-size: .9rem;
   color: #242525;
-  font-family: "GT-Walsheim-Pro-Medium";
+  font-family: "PTSans-bold";
   vertical-align: middle;
   display: inline-block;
   > * {

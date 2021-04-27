@@ -10,3 +10,27 @@
   font-family: 'GT-Walsheim-Pro-Bold';
   src: url('../../../assets/fonts/GT-Walsheim-Pro-Bold.woff2') format('woff2'); /* Super Modern Browsers */
 }
+@font-face {
+  font-family: 'Raleway', sans-serif;
+  src: url('../../../assets/fonts/Raleway-Italic-VariableFont_wght.ttf') format('ttf'); /* Super Modern Browsers */
+}
+@font-face {
+  font-family: 'Raleway', sans-serif;
+  src: url('../../../assets/fonts/Raleway-VariableFont_wght.ttf') format('ttf'); /* Super Modern Browsers */
+}
+@font-face {
+  font-family: 'PT Sans', sans-serif;
+  src: url('../../../assets/fonts/PTSans-Regular.ttf') format('ttf'); /* Super Modern Browsers */
+}
+@font-face {
+  font-family: 'PT Sans', sans-serif;
+  src: url('../../../assets/fonts/PTSans-Italic.ttf') format('ttf'); /* Super Modern Browsers */
+}
+@font-face {
+  font-family: 'PT Sans', sans-serif;
+  src: url('../../../assets/fonts/PTSans-BoldItalic.ttf') format('ttf'); /* Super Modern Browsers */
+}
+@font-face {
+  font-family: 'PT Sans', sans-serif;
+  src: url('../../../assets/fonts/PTSans-Bold.ttf') format('ttf'); /* Super Modern Browsers */
+}

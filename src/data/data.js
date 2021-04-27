@@ -3,7 +3,7 @@ module.exports = {
   Sitelogo: '#',
   SiteLogoText: 'Giulia P.',
   SiteAuthor: 'Giulia Passoni',
-  SiteDescription: 'Aspiring Artist',
+  SiteDescription: 'Artist',
   defaultDescription: 'Non obstantem', 
   SiteSocialLinks: {
     linkedin: 'https://www.linkedin.com/in/giulia-passoni-70b364122/',
