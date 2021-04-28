@@ -69,7 +69,7 @@ export const ResumeButton = styled.a`
   border-radius: .5rem;
   transition: color 300ms ease-in-out, border-color 400ms ease-in-out;
   &:hover {
-    color: ${colors.primary};
+    color: transparent;
     border-color: ${colors.primary}
   }
 `

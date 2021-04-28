@@ -26,6 +26,7 @@ Note: needs to be done before you save changes
 # TODO:
 - edit footer 
 - change background colour (see palette below) 
+- issue with size of pics
 - fix css  
 - edit data/data.js  
 - change favicon and assets/img
