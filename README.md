@@ -24,7 +24,7 @@ Note: needs to be done before you save changes
 5. git push
 
 # TODO:
-- edit footer 
+- add social links/icons to footer 
 - change background colour (see palette below) 
 - issue with size of pics
 - fix css  

@@ -25,13 +25,10 @@ const Footer = () => {
 						</div>
 					</FooterBody>
 					<div className="box">
-						<SubRight> src/components/layout/footer/index.jsx - change me. </SubRight>
+						{/* <SubRight> src/components/layout/footer/index.jsx - change me. </SubRight> */}
 						<CopyRight className="text-dark">
-							© 
-							<span> {new Date().getFullYear()}, Built with {` `} 
-								<a href="https://www.gatsbyjs.org">Gatsby</a>{" "}
-          		</span> 
-							Copyright 2021 by {data.SiteAuthor} </CopyRight>
+							© {data.SiteAuthor} 
+							<span> {new Date().getFullYear()} </span>  </CopyRight>
 					</div>
 				</ContainerLayout>
 			</FooterStyle>
