@@ -8,7 +8,7 @@ export const AboutSection = styled.section`
     display: grid;
     grid-template-columns: 1fr 1.25fr;
     grid-gap: 10rem;
-    text-align: left;
+    text-align: justify;
   }
 `
 export const Avatar =styled(Img)`

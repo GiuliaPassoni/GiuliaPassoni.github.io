@@ -27,7 +27,7 @@ const Footer = () => {
 					<div className="box">
 						{/* <SubRight> src/components/layout/footer/index.jsx - change me. </SubRight> */}
 						<CopyRight className="text-dark">
-							© {data.SiteAuthor} 
+							&copy; {data.SiteAuthor} 
 							<span> {new Date().getFullYear()} </span>  </CopyRight>
 					</div>
 				</ContainerLayout>

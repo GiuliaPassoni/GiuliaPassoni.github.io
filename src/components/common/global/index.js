@@ -32,7 +32,7 @@ export const GlobalStyle = createGlobalStyle`
       overflow: visible; /* 2 */
     }
     a {
-      background-color: transparent;
+      background-color: white;
       text-decoration: none;
     }
     b,

@@ -8,7 +8,7 @@ export const FooterStyle = styled.footer`
 	position: relative;
 	text-align: left;
 	@media(min-width: ${variables.breakpointPhone}) {
-		background: linear-gradient(to top, #9ad6fe, transparent 80%);
+		background: linear-gradient(to bottom,#FFECEB, #81849C);
 	}
 	@media(max-width: ${variables.breakpointPhone}) {
 		padding-bottom: 2rem;
@@ -60,6 +60,9 @@ export const FooterSocialMedia = styled.ul`
 	li {
 		margin-bottom: 1.5rem;
 	}
+	a {
+		background-color: transparent;
+	}
 `
 export const MediaLink = styled.a`
 	padding: 1rem 0rem;
@@ -69,5 +72,4 @@ export const MediaLink = styled.a`
   text-transform: capitalize;
   font-family: "PT Sans-Bold", sans-serif;
 	color: ${variables.primary};
-	
 `

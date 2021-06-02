@@ -7,7 +7,7 @@
 4. Go to https://localhost:8000
 
 ## To publish website changes
-Note: needs to be done before you save changes
+Note: needs to be done before you save cchanges
 1. Open terminal where you started the website
 2. ctrl + c
 3. delete docs and public (if exists) folders
@@ -24,8 +24,7 @@ Note: needs to be done before you save changes
 5. git push
 
 # TODO:
-- add social links/icons to footer 
-- change background colour (see palette below) 
+- add social links/icons to footer  
 - issue with size of pics
 - fix css  
 - edit data/data.js  
