@@ -9,15 +9,15 @@ module.exports = {
     linkedin: 'https://www.linkedin.com/in/giulia-passoni-70b364122/',
     redbubble: 'https://www.redbubble.com/people/GLissArt/shop?asc=u'
   },
-  SiteAddress: {
+  /*SiteAddress: {
     city: '',
     region: '',
     country: '',
     zipCode: '',
-  },
+  },*/
   SiteContact: {
     email: 'giulia.passoni95@gmail.com',
-    phone: 'phone number',
+    /*phone: 'phone number',*/
   },
   SiteCopyright: '2021',
 };

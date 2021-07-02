@@ -11,13 +11,15 @@ const Footer = () => {
 				<ContainerLayout>
 					<FooterBody>
 						<FooterSocialMedia>
-							{socialMedia.map(({ id, name, url }) => (
-								<li key={id}> 
-									<MediaLink className="lined-link" href={url} target="_blank" rel="noopener noreferrer" aria-label={`follow us on ${name}`}>
-										{name}
-									</MediaLink> 
-								</li>
-							))}
+							{socialMedia.map(({ id, name, url }) => {
+								return (
+									<li key={id}>
+										<MediaLink className="lined-link" href={url} target="_blank" rel="noopener noreferrer" aria-label={`follow us on ${name}`}>
+											{name}
+										</MediaLink> 
+									</li>
+								)
+							})}
 						</FooterSocialMedia>
 						<div>
 							<p className="text-primary quote"> Interested? </p>

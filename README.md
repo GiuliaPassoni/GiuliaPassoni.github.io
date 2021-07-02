@@ -24,7 +24,8 @@ Note: needs to be done before you save cchanges
 5. git push
 
 # TODO:
-- add social links/icons to footer  
+- add social links/icons to footer g 
+- change favicon
 - issue with size of pics
 - fix css  
 - edit data/data.js  
